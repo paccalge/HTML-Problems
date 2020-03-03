@@ -1,11 +1,7 @@
-.central{
+.bloque{
     margin: auto;
-    width: 33%;
-    border: 3px solid green;
-    padding: 10px;
+    width: 85%;
+    border: 1px solid green;
+    padding: 100px;
     text-align: center;
-}
-
-.derecha{
-
 }
