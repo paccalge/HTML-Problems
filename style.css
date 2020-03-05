@@ -2,3 +2,12 @@
     height: 450px;
     width: 700px;
 }
+
+#flores{
+    text-decoration: underline;
+}
+
+#mas{
+    border: black solid;
+    width: 300px;
+}
